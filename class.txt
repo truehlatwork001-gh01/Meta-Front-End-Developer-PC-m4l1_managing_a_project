@@ -1,17 +1,13 @@
-this is the class.txt file required for the assignment.
-Replace the content of the file with the contents provided in the assignment.
-Add the file and commit it to your local repository with a message of your choice.
-Push the commit to the forked repository.
 Crimson
 Orange
-Green
+Blue
 Cyan
 Yellow
-Ivory
+Charcoal
 Khaki
 Coral
 Silver
 Fuchsia
-Gray
+Purple
 Brown
 Red
